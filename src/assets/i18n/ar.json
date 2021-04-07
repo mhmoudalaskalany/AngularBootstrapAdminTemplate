@@ -281,6 +281,11 @@
     "TransferFrom": "نقل العهدة من:",
     "TransferTo": "نقل العهدة إلى:",
     "PrintEmployeeAssetCard": "طباعة بطاقة العهدة",
-    "PrintEmployeeAssetReport": "طباعة قائمة المنقولات الحكومية"
+    "PrintEmployeeAssetReport": "طباعة قائمة المنقولات الحكومية",
+    "BasicUiElements": "عناصر الواجهة الاساسية",
+    "FormElements": "عناصر الفورم",
+    "Icons": "الايقونات",
+    "Tables": "الجداول",
+    "Charts": "الرسومات"
   }
 }

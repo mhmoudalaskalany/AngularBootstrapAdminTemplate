@@ -280,6 +280,11 @@
     "TransferFrom": "Transfer Asset From:",
     "TransferTo": "Transfer Asset To:",
     "PrintEmployeeAssetCard": "Print Asset Card",
-    "PrintEmployeeAssetReport": "Print Asset List"
+    "PrintEmployeeAssetReport": "Print Asset List",
+    "BasicUiElements": "Basic UI Elements",
+    "FormElements": "Form Elements",
+    "Icons": "Icons",
+    "Tables": "Tables",
+    "Charts": "Charts"
   }
 }

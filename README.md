@@ -5,7 +5,9 @@ This is an angular 11 bootstrap template based on Purple Bootstrap template
 
 https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template
 
-[!Arabic](https://ibb.co/d4BW3SR)
+![Arabic](https://github.com/mhmoudalaskalany/AngularBootstrapAdminTemplate/blob/main/src/assets/images/dashboard/1.PNG)
+
+![English](https://github.com/mhmoudalaskalany/AngularBootstrapAdminTemplate/blob/main/src/assets/images/dashboard/2.PNG)
 
 # Features
 

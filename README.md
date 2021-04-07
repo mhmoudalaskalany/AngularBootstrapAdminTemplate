@@ -8,7 +8,7 @@ https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template
 
 
 
-#Features
+# Features
 
 -Support RTL ( Fixed It Was Not Working In Free Template )
 

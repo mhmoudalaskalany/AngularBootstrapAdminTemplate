@@ -75,9 +75,9 @@ export class AppComponent implements OnInit {
   setTitle(): void {
     const lang = this.translateService.getCurrentLanguage();
     if (lang === 'ar') {
-      this.titleService.setTitle('ادارة المخازن');
+      this.titleService.setTitle('Admin Dashboard');
     } else {
-      this.titleService.setTitle('Stock Management System');
+      this.titleService.setTitle('Admin Dashboard');
     }
   }
 }

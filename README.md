@@ -7,7 +7,7 @@ https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template
 
 and this tutorial from this youtube channel
 
-https://www.youtube.com/watch?v=HM_x42waegg&lc=z235x1kpwvmvgxqk5acdp430gagbuoocylvt4yzmsd5w03c010c.1625571651962478&ab_channel=webcoder
+https://youtu.be/HM_x42waegg
 
 ![Arabic](https://github.com/mhmoudalaskalany/AngularBootstrapAdminTemplate/blob/main/src/assets/images/dashboard/1.PNG)
 
